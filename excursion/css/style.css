@@ -31,9 +31,33 @@ h2 {
     font-weight: normal;
     font-size: 16px;
     text-align: center;
+}
     
-  
+h3 {
+        color: white;
+        font-weight: 300;
+        font-size: 42px;
+        text-align: center;
+
+}
 p {
-    color: white;
+    color: grey;
+    font-size: 21px;
+    text-align: center;
     
 }
+
+div.video{
+    display: flex;
+    justify-content: right;
+
+
+}
+<div class="video" style="
+    display: flex;
+    justify-content: center;
+">
+         <video width="250px" height="auto" controls="" autoplay="">
+            <source src="c://github/repos/excursion/resources/excursion.mp4" type="video/mp4">
+        </video>
+    </div>
