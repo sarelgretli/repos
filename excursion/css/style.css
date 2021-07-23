@@ -1,24 +1,38 @@
-#header {
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
+}
+
+
+
+#header {
     text-align: center;
 
 }
 #body {
-    background-color: black;
-    text-align: center;
+  
 
 }
 
-#main_page {
-    background-color: black;
-    
-}
+a {
+    color:aquamarine;
 
+}
 
 h1 {
     color: white;
+    font-weight: normal;
+    font-size: 50px;
+    
     
 }
+h2 {
+    color: white;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    
+  
 p {
     color: white;
     
