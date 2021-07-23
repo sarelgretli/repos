@@ -3,7 +3,11 @@
     text-align: center;
 
 }
+#body {
+    background-color: black;
+    text-align: center;
 
+}
 
 #main_page {
     background-color: black;
@@ -12,6 +16,10 @@
 
 
 h1 {
+    color: white;
+    
+}
+p {
     color: white;
     
 }
