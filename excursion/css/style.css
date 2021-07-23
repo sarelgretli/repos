@@ -1,12 +1,17 @@
-.header {
+#header {
     background-color: black;
-    color: white;
+    text-align: center;
 
 }
 
 
-.main {
+#main_page {
     background-color: black;
+    
+}
+
+
+h1 {
     color: white;
     
 }
